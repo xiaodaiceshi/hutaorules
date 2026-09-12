@@ -1,0 +1,16 @@
+# NAME: Embydirect
+# AUTHOR: P003
+# UPDATED: 2026-09-13 02:55:11
+# DOMAIN: 5
+# DOMAIN-SUFFIX: 1
+# DOMAIN-KEYWORD: 0
+# IP-CIDR: 0
+# IP-CIDR6: 0
+# IP-ASN: 0
+# TOTAL: 6
+5165163.xyz
+cf.goglobe.pro
+saodu6.cn
+saodu6.top
+xgua.de
+.xgua.de

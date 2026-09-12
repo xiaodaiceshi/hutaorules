@@ -1,0 +1,55 @@
+# NAME: Emby
+# AUTHOR: P003
+# UPDATED: 2026-09-13 02:55:11
+# DOMAIN: 23
+# DOMAIN-SUFFIX: 22
+# DOMAIN-KEYWORD: 0
+# IP-CIDR: 0
+# IP-CIDR6: 0
+# IP-ASN: 0
+# TOTAL: 45
+DOMAIN,60442173.xyz
+DOMAIN,605305.xyz
+DOMAIN,707909.xyz
+DOMAIN,aixj.de
+DOMAIN,chilledmelon.com
+DOMAIN,coemn.com
+DOMAIN,cr18.eu.org
+DOMAIN,eb.zzm.li
+DOMAIN,emby.my
+DOMAIN,emby.wtf
+DOMAIN,embymv.link
+DOMAIN,faemby.vip
+DOMAIN,feiyue.lol
+DOMAIN,jingzhe.pro
+DOMAIN,lilyemby.com
+DOMAIN,liminalnet.com
+DOMAIN,meowfly.de
+DOMAIN,nebula-media.org
+DOMAIN,okemby.org
+DOMAIN,sfcj.org
+DOMAIN,taotu.ink
+DOMAIN,xying1314.xyz
+DOMAIN,younoyes.com
+DOMAIN-SUFFIX,60442173.xyz
+DOMAIN-SUFFIX,605305.xyz
+DOMAIN-SUFFIX,707909.xyz
+DOMAIN-SUFFIX,aixj.de
+DOMAIN-SUFFIX,chilledmelon.com
+DOMAIN-SUFFIX,coemn.com
+DOMAIN-SUFFIX,cr18.eu.org
+DOMAIN-SUFFIX,emby.my
+DOMAIN-SUFFIX,emby.wtf
+DOMAIN-SUFFIX,embymv.link
+DOMAIN-SUFFIX,faemby.vip
+DOMAIN-SUFFIX,feiyue.lol
+DOMAIN-SUFFIX,jingzhe.pro
+DOMAIN-SUFFIX,lilyemby.com
+DOMAIN-SUFFIX,liminalnet.com
+DOMAIN-SUFFIX,meowfly.de
+DOMAIN-SUFFIX,nebula-media.org
+DOMAIN-SUFFIX,okemby.org
+DOMAIN-SUFFIX,sfcj.org
+DOMAIN-SUFFIX,taotu.ink
+DOMAIN-SUFFIX,xying1314.xyz
+DOMAIN-SUFFIX,younoyes.com

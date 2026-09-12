@@ -1,0 +1,42 @@
+# NAME: Speedtest
+# AUTHOR: P003
+# UPDATED: 2026-09-13 02:55:12
+# DOMAIN: 16
+# DOMAIN-SUFFIX: 15
+# DOMAIN-KEYWORD: 1
+# IP-CIDR: 0
+# IP-CIDR6: 0
+# IP-ASN: 0
+# TOTAL: 32
+cdnst.net
+cellmaps.com
+ekahau.cloud
+ekahau.com
+fast.com
+ookla-speedtest-central.hgconair.hgc.com.hk
+ookla.com
+ooklaserver.net
+pingtest.net
+speed.cloudflare.com
+speed.dler.io
+speedtest.co
+speedtest.net
+speedtestcustom.com
+webtest.net
+www.speedtest.net.cdn.cloudflare.net
+.cdnst.net
+.cellmaps.com
+.ekahau.cloud
+.ekahau.com
+.fast.com
+.ookla-speedtest-central.hgconair.hgc.com.hk
+.ookla.com
+.ooklaserver.net
+.pingtest.net
+.speed.cloudflare.com
+.speed.dler.io
+.speedtest.co
+.speedtest.net
+.speedtestcustom.com
+.webtest.net
+DOMAIN-KEYWORD,speedtest

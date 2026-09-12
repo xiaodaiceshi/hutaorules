@@ -1,0 +1,55 @@
+# NAME: Emby
+# AUTHOR: P003
+# UPDATED: 2026-09-13 02:55:11
+# DOMAIN: 23
+# DOMAIN-SUFFIX: 22
+# DOMAIN-KEYWORD: 0
+# IP-CIDR: 0
+# IP-CIDR6: 0
+# IP-ASN: 0
+# TOTAL: 45
+60442173.xyz
+605305.xyz
+707909.xyz
+aixj.de
+chilledmelon.com
+coemn.com
+cr18.eu.org
+eb.zzm.li
+emby.my
+emby.wtf
+embymv.link
+faemby.vip
+feiyue.lol
+jingzhe.pro
+lilyemby.com
+liminalnet.com
+meowfly.de
+nebula-media.org
+okemby.org
+sfcj.org
+taotu.ink
+xying1314.xyz
+younoyes.com
+.60442173.xyz
+.605305.xyz
+.707909.xyz
+.aixj.de
+.chilledmelon.com
+.coemn.com
+.cr18.eu.org
+.emby.my
+.emby.wtf
+.embymv.link
+.faemby.vip
+.feiyue.lol
+.jingzhe.pro
+.lilyemby.com
+.liminalnet.com
+.meowfly.de
+.nebula-media.org
+.okemby.org
+.sfcj.org
+.taotu.ink
+.xying1314.xyz
+.younoyes.com

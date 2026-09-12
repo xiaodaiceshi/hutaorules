@@ -1,0 +1,56 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "60442173.xyz",
+        "605305.xyz",
+        "707909.xyz",
+        "aixj.de",
+        "chilledmelon.com",
+        "coemn.com",
+        "cr18.eu.org",
+        "eb.zzm.li",
+        "emby.my",
+        "emby.wtf",
+        "embymv.link",
+        "faemby.vip",
+        "feiyue.lol",
+        "jingzhe.pro",
+        "lilyemby.com",
+        "liminalnet.com",
+        "meowfly.de",
+        "nebula-media.org",
+        "okemby.org",
+        "sfcj.org",
+        "taotu.ink",
+        "xying1314.xyz",
+        "younoyes.com"
+      ],
+      "domain_suffix": [
+        ".60442173.xyz",
+        ".605305.xyz",
+        ".707909.xyz",
+        ".aixj.de",
+        ".chilledmelon.com",
+        ".coemn.com",
+        ".cr18.eu.org",
+        ".emby.my",
+        ".emby.wtf",
+        ".embymv.link",
+        ".faemby.vip",
+        ".feiyue.lol",
+        ".jingzhe.pro",
+        ".lilyemby.com",
+        ".liminalnet.com",
+        ".meowfly.de",
+        ".nebula-media.org",
+        ".okemby.org",
+        ".sfcj.org",
+        ".taotu.ink",
+        ".xying1314.xyz",
+        ".younoyes.com"
+      ]
+    }
+  ]
+}

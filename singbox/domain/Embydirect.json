@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "5165163.xyz",
+        "cf.goglobe.pro",
+        "saodu6.cn",
+        "saodu6.top",
+        "xgua.de"
+      ],
+      "domain_suffix": [
+        ".xgua.de"
+      ]
+    }
+  ]
+}
